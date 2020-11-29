@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#name {
+  position: absolute;
+
+}
+
+#name p {
+  font-weight: 900;
+  font-size: 2em;
+  position: relative;
+  color: crimson;
+  padding-left: 40px;
+
+}
